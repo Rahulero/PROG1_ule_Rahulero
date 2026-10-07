@@ -18,3 +18,6 @@
 18. bicicleta - https://dle.rae.es/bicicleta
 19. océano - https://dle.rae.es/océano
 20. primavera - https://dle.rae.es/primavera
+
+21. servidor - https://dle.rae.es/servidor
+22. cliente - https://dle.rae.es/cliente
